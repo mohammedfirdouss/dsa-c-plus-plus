@@ -1,6 +1,5 @@
-**Summary**
 
-- **Arrays**  
+#  **Arrays**  
   - **letters** array: `char letters[3];`  
     - Stored **sequentially in memory** (`letters[0] = 'C'`, `letters[1] = 'B'`, `letters[2] = 'A'`).  
 
